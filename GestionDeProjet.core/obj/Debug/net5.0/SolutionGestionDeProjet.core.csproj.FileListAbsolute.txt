@@ -1,0 +1,15 @@
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\bin\Debug\net5.0\SolutionGestionDeProjet.core.deps.json
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\bin\Debug\net5.0\SolutionGestionDeProjet.core.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\bin\Debug\net5.0\SolutionGestionDeProjet.core.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\bin\Debug\net5.0\SolutionGestionProjets.SharedKernel.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\bin\Debug\net5.0\SolutionGestionProjets.SharedKernel.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.csproj.AssemblyReference.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.AssemblyInfoInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.AssemblyInfo.cs
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.csproj.CoreCompileInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.csproj.CopyComplete
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\refint\SolutionGestionDeProjet.core.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\SolutionGestionDeProjet.core.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\GestionDeProjet.core\obj\Debug\net5.0\ref\SolutionGestionDeProjet.core.dll

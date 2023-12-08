@@ -1,0 +1,15 @@
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.exe
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.deps.json
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.runtimeconfig.json
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.runtimeconfig.dev.json
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\bin\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.AssemblyInfoInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.AssemblyInfo.cs
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\refint\SolutionGestionDeProjet.ConsoleTestApp.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\SolutionGestionDeProjet.ConsoleTestApp.genruntimeconfig.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionDeProjet.ConsoleTestApp\obj\Debug\net5.0\ref\SolutionGestionDeProjet.ConsoleTestApp.dll

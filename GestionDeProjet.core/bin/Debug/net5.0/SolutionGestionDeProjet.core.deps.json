@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SolutionGestionDeProjet.core/1.0.0": {
+        "dependencies": {
+          "SolutionGestionProjets.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "SolutionGestionDeProjet.core.dll": {}
+        }
+      },
+      "SolutionGestionProjets.SharedKernel/1.0.0": {
+        "runtime": {
+          "SolutionGestionProjets.SharedKernel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolutionGestionDeProjet.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolutionGestionProjets.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

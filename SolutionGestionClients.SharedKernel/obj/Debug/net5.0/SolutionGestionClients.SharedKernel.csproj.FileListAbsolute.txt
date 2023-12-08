@@ -1,0 +1,11 @@
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\bin\Debug\net5.0\SolutionGestionClients.SharedKernel.deps.json
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\bin\Debug\net5.0\SolutionGestionClients.SharedKernel.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\bin\Debug\net5.0\SolutionGestionClients.SharedKernel.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.AssemblyInfo.cs
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\refint\SolutionGestionClients.SharedKernel.dll
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\SolutionGestionClients.SharedKernel.pdb
+C:\Users\Ahcene Benali\Desktop\TP_GL\SolutionGestionClients.SharedKernel\obj\Debug\net5.0\ref\SolutionGestionClients.SharedKernel.dll
